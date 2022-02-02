@@ -1,0 +1,14 @@
+
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(éäÑıÿÿÿÿ8š®·Èå/
+H
+java:S1068"+Remove this unused "agencia" private field.(¥­”ó8ğ‘áÎå/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¦”
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôÅÁ8š®·Èå/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µı´Ò8š®·Èå/
+G
+java:S1068"*Remove this unused "numero" private field.(Œ»ÓŒ8´ÊáÎå/
+K
+java:S1068")Remove this unused "saldo" private field.(×Ì’êüÿÿÿÿ8´ÊáÎå/
